@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pretended high court of justice unbowelled being a caveat for traytors, or, treason condemned and truth vindicated. With severall reasons presented to Oliver Cromwell, four days before the massacring of his Majesty proving the sad sentence passed upon his late sacred Majesty, the 27 of Ianuary 1648. unjust and contrary both to the law of God and these nations. Together with his Majesties speech to a precious jewel then sitting as one of his judges, though formerly a servant to his sacred Majestie. Never publish'd till this day of England's redemption.</title>
+            <author>E. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81558</idno>
+            <idno type="STC">Wing D16A</idno>
+            <idno type="STC">ESTC R223234</idno>
+            <idno type="EEBO-CITATION">99897406</idno>
+            <idno type="PROQUEST">99897406</idno>
+            <idno type="VID">135587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135587)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2494:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pretended high court of justice unbowelled being a caveat for traytors, or, treason condemned and truth vindicated. With severall reasons presented to Oliver Cromwell, four days before the massacring of his Majesty proving the sad sentence passed upon his late sacred Majesty, the 27 of Ianuary 1648. unjust and contrary both to the law of God and these nations. Together with his Majesties speech to a precious jewel then sitting as one of his judges, though formerly a servant to his sacred Majestie. Never publish'd till this day of England's redemption.</title>
+                  <author>E. D.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Hairman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: E. D.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Regicides --  England --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135587:1" rendition="simple:additions"/>
+            <p>The pretended High Court of Juſtice VNBOWELLED: Being a Caveat for TRAYTORS, OR, TREASON CONDEMNED AND Truth Vindicated. With ſeverall Reaſons preſented to <hi>Oliver Cromwell,</hi> four days before the Maſſacring of his Majeſty proving the ſad ſentence paſſed upon his late Sacred Majeſty, the 27 of <hi>Ianuary</hi> 1648. unjuſt and contrary both to the Law of <hi>GOD</hi> and theſe Nations. Together with his Majeſties <hi>SPEECH</hi> to a precious Jewel then ſitting as one of his Judges, though formerly a ſervant to His Sacred Majeſtie.</p>
+            <p>
+               <hi>Never Publiſh'd till this day of</hi> England's <hi>Redemption.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Hairman,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:135587:2"/>
+            <pb n="1" facs="tcp:135587:2" rendition="simple:additions"/>
+            <head>The pretended High Court of Juſtice unbowelled, and their iniuſtice laid open to publck view.</head>
+            <p>THis Court called the High Court of Juſtice, was erected in 48. and the better to carry on their deſign in cutting of the moſt loyal ſubjects, they began with the Head of the People his ſa<g ref="char:EOLhyphen"/>cred Majeſty, in the ſcarlet dy of whoſe blood they firſt dipt their cruel hands and hardened their hearts. The manner of his Tryal was as followeth. <hi>viz.</hi>
+            </p>
+            <p>The Court being erected, the Counſellours were appointed to draw up the <hi>Charge</hi> againſt his Majeſty, was Dr. <hi>Doriſlaus,</hi> Mr. <hi>Aske,</hi> Mr. <hi>Iohn Cook</hi> Solicitor. Serj. <hi>Danby,</hi> Serj. at Arms. Mr. <hi>Brougton</hi> and Mr. <hi>Phelps</hi> Clerks to the Court. Col. <hi>Humphrey</hi> Sword-Bearer.</p>
+            <p>There were produced 35 Witneſſes who were ſworn in this preten<g ref="char:EOLhyphen"/>ded <hi>Court,</hi> to give evidence againſt the King, moſt of which were per<g ref="char:EOLhyphen"/>ſons of ſmall eſtimation, as a <hi>Cobler,</hi> a <hi>Tyler,</hi> a <hi>Painter,</hi> a <hi>Husbandman</hi> a <hi>Barber,</hi> a <hi>Feltmaker,</hi> a <hi>Weaver,</hi> a <hi>Glover,</hi> a <hi>Smith &amp;c.</hi> not above 3 or 4 Gentlemen amongſt them.</p>
+            <div type="subpart">
+               <head>The ſentence againſt the ſaid King <hi>January 27 1648,</hi> which was read by the ſaid Mr. <hi>Braugton</hi> aforeſaid Clerk.</head>
+               <p>Whereas the Commons of <hi>England</hi> in Parliament, have appointed them an High Court of Juſtice for the Tryal of <hi>Charles Stuart</hi> King of <hi>England</hi> before whom he had been three times convented, atnd at the firſt time a <hi>Charge</hi> of high Treaſon, and other crimes and miſdemeanors was read in the behalf of the Kingdom of <hi>England,</hi> &amp;c. as in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which was read throughout.</p>
+               <pb n="2" facs="tcp:135587:3"/>
+               <p>To which Charge, he the ſaid <hi>Charls Stuart</hi> was required to give his Anſwer, but he refuſed ſo to do; and ſo expreſt ſeveral paſſages at his Tryal in refuſing to anſwer. For all which Treaſons and Crimes, this Court doth adjudge, That the ſaid <hi>Charls Stuart,</hi> as a Tyrant, Traytor, Murtherer, and Publick enemy, ſhall be put to death, by ſevering his head from his body.</p>
+               <p>
+                  <hi>This Sentence</hi> (<hi>ſayes</hi> Bradſhaw <hi>the Preſident</hi>) <hi>now read and publiſhed is the Act, Sentence, Judgement and Reſolution of the whole Court.</hi> To which the Members of the Court ſtood up and aſſented to what he ſaid <hi>by holding up their hands.</hi>
+               </p>
+               <p>
+                  <hi>The King offered to ſpeak, but he was inſtantly commanded to be taken away, and the Court broke up.</hi>
+               </p>
+               <p>One thing worth obſervation is, that his Majeſty (being in the Court and) taking notice of Sir <hi>Henry Mildmay,</hi> ſaid, <hi>O you are a precious Jewell,</hi> he being formerly a ſervant to his Majeſty.</p>
+               <p>The true manner of proceeding to take off the <hi>Kings</hi> Head, accord<g ref="char:EOLhyphen"/>ing to the Sentence given as aforeſaid. Sir <hi>Hadreſs Waller,</hi> Colonel <hi>Dean,</hi> and Colonel <hi>Okey,</hi> were appointed to conſider of the Time and Place for the Execution of the King, according to his Sentence, given by the (pretended) High Court of Juſtice.</p>
+               <p>
+                  <hi>Painted Chamber,</hi> Monday <hi>January</hi> the 29th 1648. Upon Report made from the Committee for Conſidering of the Executing of the Judgement againſt the King, that the ſaid Committee have Reſolved, <hi>That the open ſtreet before</hi> Whitehal <hi>is a fit place:</hi> And the ſaid Com<g ref="char:EOLhyphen"/>mitee conceive it fit, <hi>That the King be there executed the morrow, the King having already notice thereof.</hi>
+               </p>
+               <p>The Court approved thereof, and ordered a Warrent to be drawn to that purpoſe, which Warrent was according drawn and agreed to, and Ordered to be ingroſſed, which was done, and ſigned and ſealed accord<g ref="char:EOLhyphen"/>ingly, as followeth.</p>
+               <p>At the High Court of Juſtice for the Trying and Judging of <hi>Charls Stuart</hi> King of <hi>England, Jan.</hi> 29. 2648.</p>
+               <p>Whereas <hi>Charls Stuart</hi> King of <hi>England,</hi> is and ſtandeth convicted, Attained and Condemned of High Treaſon, and other Crimes, and Sentence on Saturday laſt was pronounced againſt him by this Court, to be put to Death, by the ſevering his head from his body, of which <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ce Execution yet remaineth to be done. Theſe are therefore <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> require you, to ſee the ſaid Sentence Executed in the open <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <hi>Whitehall</hi> upon the morrow, being the 30. day of this in<g ref="char:EOLhyphen"/>ſtant
+<pb n="3" facs="tcp:135587:3" rendition="simple:additions"/>Moneth of <hi>January,</hi> between the hours of Ten in the morning, and Five in the afternoon of the ſame day, with full effect; and for ſo doing, This ſhall be your ſufficient Warrant: and theſe are to require all Officers and Souldiers and other the good People of this Nation of <hi>England</hi> to be aſſiſtant unto you in this ſervice. Given under our hands and Seals.</p>
+               <p>To <hi>Colonel</hi> Francis Hacker, <hi>Colonel</hi> Hunks, <hi>and Lieutenant Colonel</hi> Phray, <hi>and to every of them.</hi> Sealed and Subſcribed by,</p>
+               <p>
+                  <hi>John Bradſhaw</hi> Preſident. <hi>Thomas Gray. Oliver Cromwell. Edward Whaley. John Danvers. Mich. Liveſay. John Boucher. Hen. Ireton. Tho. Maleverer. John Blackeſton. John Hutchiſon. William Goffe Tho. Pride. Henry Smith. Vincent Potter. William Conſtable. Rich. Ingoldsby. Will. Cawley. John Bark ſtead. Iſaac Ewer. Va.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Walton. Peter Temple. Tho. Harriſon. Joh. Hewſon. Per. Pelham. Richard Dean. Rob. Tichburn. Hump. Edwsard. Dan. Blagrave. Owen Roe. Will. Purifoye. Adrian Scroop James Templer. Aug. Garland. Edmon. Ludlow. Hen. Martin. Joh. Alured. Rob. Lilburn. Will. Say. Anthony Stapley. Gregory Nor<g ref="char:EOLhyphen"/>ton. Tho. Chaloner. Tho. Wogan. Simon Meyne. Tho. Horton. Ioh. Jones. Ioh. Mor. Hadreſs Waller. Gilbert Millington. Ch. Fleetwood. Iohn Venn. Greg. Clement. Ioh. Downs. Tho. Waite. Tho. Scot. Iohn Carew. Miles Corbet.</hi>
+               </p>
+               <p>In all Fifty eight, Ordered, <hi>That the Scaffold on which the King is to be executed, be covered with black.</hi>
+               </p>
+               <p>The Warrant for executing the King being accordingly delivered to thoſe parties to whom the ſame was directed, Execution was done up<g ref="char:EOLhyphen"/>on him according to the Tenour thereof about two a clock in the after<g ref="char:EOLhyphen"/>noon, of the ſaid 30. of <hi>January</hi> 1648.</p>
+               <p>
+                  <hi>The Fatall day of the ſaid Execution, being Tueſday</hi> January <hi>the</hi> 30. 1648. His Majeſty continued in Prayer all the morning, and receives the Sacrament. Juſt at ten a Clock before noon, he was conveyed on foot on foot from St. <hi>James's</hi> Palace to <hi>Whitehall,</hi> guarded by a Regi<g ref="char:EOLhyphen"/>ment of Foot Souldiers, part before, part behinde, with Colours fly<g ref="char:EOLhyphen"/>ing, and Drums beating, his private guard of Partizans about him, and Dr. <hi>Juxon</hi> Biſhop of <hi>London,</hi> next to him on one ſide, and Colonel <hi>Tomlinſon</hi> on the other; being come to <hi>Whitehall,</hi> he continued in his Cabinet Chamber at his Devotions, refuſing to dine, onely about 12 a clock he eat a bit of Bread, and drank a glaſſe of Claret wine; from from thence he was conveyed into the Banquetting houſe, and the great window inlarged, out of which he aſcends the Scaffold, the rails
+<pb n="4" facs="tcp:135587:4" rendition="simple:additions"/>being hung round, and the floor covered with black; His Executioners diſguiſed with Vizards, yet was his Majeſty not affrighted: He ſhewed more care of the people living, then of himſelf dying: for looking round about upon the people, whom the thick Guards of Souldiers kept a diſtance off, and ſeeing he could not be heard by them, omitting (probably) what he purpoſed to have ſpoken to them, therefore turn<g ref="char:EOLhyphen"/>ing to the Officers and Actors by him, he delivered himſelf in a ſhort (but excellent) Speech, which being ended, he meekly went to Pray<g ref="char:EOLhyphen"/>ers, and after ſome heavenly diſcourſe between him and the Biſhop, having prepared himſelf, he lifted up his eyes to heaven, mildly pray<g ref="char:EOLhyphen"/>ing to himſelf, he ſtooping down to the block as to a Prayer-deske, and moſt humbly bowed his generous Neck to God, to be cut of by the V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zarded Executioner, which was ſodainly done at one blow. Thus fell King <hi>Charls,</hi> and thus all <hi>Britain</hi> with him.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>The true Copy of a Letter ſent by</hi> Ed. Barber <hi>Freeman of</hi> England <hi>and Clothworker of</hi> London <hi>to Gen.</hi> Crumwel <hi>after his Majeſty had re<g ref="char:EOLhyphen"/>ceived the ſentence of Death, for the ſaving of his Life. Directed to the Right honorable</hi> Oliver Crumwel <hi>L. Gen. of the Forces rayſed by the Parl. of the Common-wralth of</hi> England, &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>MAy it pleaſe your honour, I cannot but write theſe few lines unto you, concerning the Parliaments dealing with the Kings Maje<g ref="char:EOLhyphen"/>ſty, whom although they have condemned to death, yet I hope will ne<g ref="char:EOLhyphen"/>ver put their Judgment to execution, but look back to their former pro<g ref="char:EOLhyphen"/>miſes and Engagements, which they have made to God, his Majeſty and this Nation, with their hands lift up to the moſt high God, that all the world ſhould ſee that they intended nothing againſt his Majeſty, but his evil Counſel, for the Liberty of the Goſpel and the freedom of the people, and that they would make him a glorious King, &amp;c. Now I be<g ref="char:EOLhyphen"/>ſeech you conſider the practiſe of <hi>Joſhua</hi> (that glorious type of Chriſt) to the <hi>Gibeonites Ioſhua</hi> 9.14, 15, 18, 19, 20. <hi>And the men took of their victuals, and asked not counſel at the mouth of the Lord, And</hi> Jo<g ref="char:EOLhyphen"/>ſhua <hi>made peace with them, and made a League with them to let them live, And the Princes of the Congregation, ſwear unto them, &amp;c. And
+<pb n="6" facs="tcp:135587:4" rendition="simple:additions"/>the children of Iſrael ſmote them not, becauſe the Princes of the congre<g ref="char:EOLhyphen"/>gation had ſworn unto them by the Lord God of</hi> Iſrael; <hi>And all the con<g ref="char:EOLhyphen"/>gregation murmured againſt the Princes, But all the Princes ſaid unto all the congregation, We have ſworn unto them by the Lord God of Iſrael, Now therefore we may not touch them, this will we do to them, we will even let them live, leaſt wrath be upon us, becauſe of the Oath which we ſwore unto them. And the Princes ſaid unto them, let them live; but let them be hewers of wood and drawers of water unto all the Congrega<g ref="char:EOLhyphen"/>tion,</hi> &amp;c, Yet the Lord had commanded that they ſhould be utterly cut off and deſtroyed, as <hi>Deut.</hi> 7.1.2.16. <hi>When the Lord thy God ſhall bring thee into the Land whether thou goeſt to poſſeſſe it, and hath caſt out many Nations before thee &amp;c. ſeven Nations greater and mightier then thou. And when the Lord thy God ſhall deliver them before thee, thou ſhalt ſmite them and utterly deſtroy them, thou ſhalt make no Covenant with them nor ſhew mercy unto them and thou ſhalt conſume all the people which the Lord thy God ſhall deliver thee, thine eye ſhall have no pitty upon them, neither ſhalt thou ſerve their gods, for that will be a ſnare unto thee,</hi> &amp;c.</p>
+            <p>Yet durſt not <hi>Joſhua</hi> deſtroy them becauſe of his oath, <hi>&amp;c.</hi> And after<g ref="char:EOLhyphen"/>wards the Lord brought three years ſamine in the dayes of <hi>David</hi> for <hi>Sauls</hi> Bloody houſe. In ſlaying the <hi>Gibeonites;</hi> And would not be appeaſed but by ſarisfying the <hi>Gibeonites</hi> which was done by hanging ſeven of <hi>Sauls</hi> Sons, 2 <hi>Sam.</hi> 21.1. to the 6.</p>
+            <p>And <hi>King.</hi> 2.6.13. to the 23. there is a Remarkable paſſage of mercy Captives in time of miſery where the King of <hi>Iſrael</hi> ſaid unto <hi>Eliſha</hi> the Prophet concerning the <hi>Syreans</hi> taken p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoners, <hi>my father ſhall I ſmite them, ſhall I ſmite them,</hi> And be anſwered <hi>thou ſhalt not ſmite them, wouldſt thou ſmite them, whom thou haſt taken captive with thy ſword. And with thy bow, ſet bread and water before them that they may eat &amp; drink. And go to their maſter, &amp; he prepared great proviſion for them, and when they had eaten and drank he ſent them Away, and they went to their maſter,</hi> I could have wiſht it had been ſo done to the poor Scots that were brought here to <hi>London, ſee the Armies of Syria came no more into the Land of Iſrael,</hi> ſee what kindneſs, and mercy wrought upon them, this is the way to pleaſe God and purchaſe peace and love, and unite the Nations, And not to render evil for evil but to follow that which is good, <hi>Deut.</hi> 32.35. <hi>to me ſaith the Lord be<g ref="char:EOLhyphen"/>longeth vengeance and recompence,</hi> and <hi>Prov.</hi> 25.21. <hi>If thine enemy be hungry give him bread to eat, and if he be thirſty give him water to
+<pb n="6" facs="tcp:135587:5" rendition="simple:additions"/>drink for thou ſhalt heap up coals of fire upon his head, and the Lord ſhall reward thee; compare with Rom.</hi> 12.17. <hi>to the</hi> 21. <hi>Recompence to no man evil for evil provide things honeſt in the ſight of all men if it be poſſible as much as lies in you, live peaceably with all men, dearly be<g ref="char:EOLhyphen"/>loved, avenge not your ſelves, but rather give place unto wrath, for it is written vengeance is mine. I will repay it ſaith the Lord, therefore if thine enemy hunger feed him, if he thirſt give him drink for in ſo doing thou ſhall heap coals of fire on his head, be not overcome of evil but over<g ref="char:EOLhyphen"/>come evil with good,</hi> &amp;c.</p>
+            <p>Again when the Lord ſaith, <hi>Ecol.</hi> 5.4.5. <hi>when thou voweſt a vow un<g ref="char:EOLhyphen"/>to God,</hi> as you have done many times, <hi>defer not to pay it for he hath no pleaſure in fools, pay that which thou haſt vowed; Better is it that thou wouldſt not vow, then that thou ſhouldſt vow and not pay,</hi> &amp;c. Con<g ref="char:EOLhyphen"/>ſider theſe things I could not but commit to your honours conſidera<g ref="char:EOLhyphen"/>tion, and the Lord give you underſtanding and a heart to do according to the engagements, that the wrath of the Lord break not forth a<g ref="char:EOLhyphen"/>gainſt this poor bleeding Nation to the utter ruine and deſtruction thereof, for breach of vows and Covenants, for I fear becauſe of oathes the Land mourneth, And <hi>Jer.</hi> 48.10. <hi>curſed be he that doth the work of the Lord deceitfully,</hi> And <hi>Nehemiah</hi> 5.9. to the 15. the Prophet re<g ref="char:EOLhyphen"/>buked the Nobles and the Rulers for their uſury oppreſſion exhorting them to reſtore their evil gotten goods, as verſ. 11. which they promiſed to do, verſe 12. upon which the Prophet ſhook his lap and ſaid <hi>ſo God ſhake out every man from his houſe, and from his Labour that per<g ref="char:EOLhyphen"/>formeth this promiſe, even thus be he ſhaken out, and emptied and all the Congregation ſaid Amen, and praiſed the Lord, and the people did according to this promiſe,</hi> &amp;c.</p>
+            <p>But ſo have not you come ſhort of this to the diſhonour to God, and the ſhame and reproach of this Nation, and inſtead of performing that promiſes you flew upon the ſpoil like <hi>Saul-Sam.</hi> 1.15.13. to the 19. &amp;c. And I believe God hath, and will ſhake many of you until ye repent for the Lord is overturning, As <hi>Eze.</hi> 21.27. <hi>I will overturn overturn, overturn it, and it ſhall he no more until he come whoſe right it is, and I will give it him,</hi> thus committing you to the moſt bleſſed guidance of the Almighty God I reſt your honours and the Nations faithful Servant.</p>
+            <closer>
+               <signed>E.D.</signed>
+            </closer>
+            <postscript>
+               <p>This lettet was delivered to the Lord Gen. <hi>Cromwel</hi> but never any an<g ref="char:EOLhyphen"/>ſwer given.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
